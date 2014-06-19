@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Object ClassType="CMyCamera">
+    <CMyCamera m_scaler1="0.01" m_scaler2="15" m_leftButton="1" m_midButton="0" m_rightButton="0">
+        <m_eye ClassType="CVec3" x="0" y="5" z="-18" />
+        <m_look ClassType="CVec3" x="0" y="-1" z="0" />
+    </CMyCamera>
+</Object>
